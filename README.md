@@ -7,7 +7,7 @@ Our purpose was to refactor the stock analysis code so the run time would be fas
 
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script. My 2018 data ran faster than my 2017 data in refactored script. The original runs slower than the refactored script. I added a (for) loop to my arrays. And a (for) to dataRowStart and dataRowEnd, and If Else as well.
 
-- [VBA_Challenge_2017] (https://github.com/gabby338414/stocks-analysis/blob/26220bf3a14c97e03202786d6a3f371b6558cf83/Resources/VBA_Challenge_2017.PNG)
+- [VBA_Challenge_2017.PNG] (https://github.com/gabby338414/stocks-analysis/blob/26220bf3a14c97e03202786d6a3f371b6558cf83/Resources/VBA_Challenge_2017.PNG)
 
 Summary: In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code? The advantages, we already had code to work to help us get started with the challenge. The disadvantages, we needed to figure out to make the run time faster than the original script. It also can be frustrating when the code does not work as expected.
