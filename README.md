@@ -9,6 +9,8 @@ Results: Using images and examples of your code, compare the stock performance b
 
 ![VBA_Challenge_2017.PNG](https://github.com/gabby338414/stocks-analysis/blob/26220bf3a14c97e03202786d6a3f371b6558cf83/Resources/VBA_Challenge_2017.PNG)
 
+![VBA_Challenge_2018.PNG](https://github.com/gabby338414/stocks-analysis/blob/6d02d4c36567895c4358534f33dfe746e9842799/Resources/VBA_Challenge_2018.PNG)
+
 Summary: In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code? The advantages, we already had code to work to help us get started with the challenge. The disadvantages, we needed to figure out to make the run time faster than the original script. It also can be frustrating when the code does not work as expected.
 How do these pros and cons apply to refactoring the original VBA script? Pros we have learned how to refactor code for VBA script. We learned we take an old code refactor it new and make it faster. Cons it was very time consuming, and the smallest errors will cause a debugging issue. There is also a lot of formatting for this code.
